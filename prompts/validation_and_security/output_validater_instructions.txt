@@ -1,0 +1,9 @@
+
+💡 How to Approach LLM Output Validation Correctly   Every Prompt context needs a different vallidator
+Step	What to Validate	Meaning (What It Ensures)	                              How to Validate
+
+1	Format	                That it follows a known structure	                       Use json.loads() or schema validators                                                                                                like pydantic or cerberus
+2	Completeness	       All required fields and expected values are present	       Check for missing keys, empty fields,                                                                                                and presence of required phrases
+3	Plausibility	      The content makes logical sense and does not contradict itself	Use basic rules (e.g. status vs. mess                                                                                                age), or auxiliary LLM for judgment
+4	Security	The output doesn't expose secrets, credentials, or dangerous code	Scan with regex for tokens, API keys,                                                                                              passwords; optionally use a second LLM
+5	Stability (Equivalence)	The output is consistent and repeatable across multiple runs with the same input    Run the prompt 5–                                                                             10 times; compare normalized outputs using hashing or 
