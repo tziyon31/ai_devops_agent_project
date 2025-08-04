@@ -13,7 +13,7 @@ Given the following input, analyze or process the data and return a structured o
 - Return output only in [JSON / YAML / other], exactly as shown.
 
 🔹 Output Format  
-Wrap your response with delimiters like <start> and <end> or triple backticks.
+Wrap your response with delimiters <start> and <end>.
 
 <start>
 {
