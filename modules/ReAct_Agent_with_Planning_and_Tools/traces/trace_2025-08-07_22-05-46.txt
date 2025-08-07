@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: OAuth provider configuration invalid
+# Total steps: 2
+Thought: The log indicates an error with the OAuth provider configuration during the build process.
+Thought: This error is not related to memory, timeout, or port issues, so no specific tool can be triggered based on the available information.
+</trace>

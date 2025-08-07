@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: Schema validation failed
+# Total steps: 2
+Thought: The log indicates a failure during the GraphQL API build due to schema validation.
+Thought: The error suggests a need to investigate the schema validation process.
+</trace>

@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: SSL certificate expired
+# Total steps: 2
+Thought: The log indicates an SSL certificate expiration error during deployment.
+Thought: This issue is unrelated to memory, timeout, or port conflicts, and requires certificate renewal.
+</trace>

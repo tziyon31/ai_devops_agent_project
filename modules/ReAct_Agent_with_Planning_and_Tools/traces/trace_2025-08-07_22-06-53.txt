@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: Edge node synchronization failed
+# Total steps: 2
+Thought: The log indicates a failure during the synchronization of edge nodes.
+Thought: The error does not provide specific details about memory, timeout, or port issues.
+</trace>

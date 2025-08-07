@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: High severity vulnerability detected
+# Total steps: 2
+Thought: The log indicates a security scan was performed and a high severity vulnerability was detected.
+Thought: The failure is due to a security issue, not a resource or timeout problem.
+</trace>

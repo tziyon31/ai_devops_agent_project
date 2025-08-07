@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: Data schema validation failed
+# Total steps: 2
+Thought: The log indicates a failure in data schema validation.
+Thought: This type of error suggests a need to review the log for specific schema issues.
+</trace>

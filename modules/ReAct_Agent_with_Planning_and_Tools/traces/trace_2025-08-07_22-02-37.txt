@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: GDPR compliance validation failed
+# Total steps: 2
+Thought: The log indicates a failure in GDPR compliance validation.
+Thought: The error is related to compliance checks, not a system resource issue.
+</trace>

@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: 07:30:15 Terraform state lock timeout
+# Total steps: 2
+Thought: The log indicates a timeout error related to Terraform state lock.
+Thought: This suggests that the process needs more time to acquire the lock or there is a need to investigate the log for more details.
+</trace>

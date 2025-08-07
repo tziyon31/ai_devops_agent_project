@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: Elasticsearch cluster health check failed
+# Total steps: 2
+Thought: The log indicates a failure in the Elasticsearch cluster health check during the build process.
+Thought: This suggests a potential issue with the Elasticsearch service that needs investigation.
+</trace>

@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: Critical security vulnerability found
+# Total steps: 2
+Thought: The log indicates a critical security vulnerability was found during penetration testing.
+Thought: The failure is due to a security issue, not a resource or timeout problem.
+</trace>

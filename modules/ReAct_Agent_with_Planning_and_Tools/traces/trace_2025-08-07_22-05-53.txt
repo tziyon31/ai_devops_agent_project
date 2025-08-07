@@ -1,0 +1,6 @@
+<trace>
+Prompt_id: CDN cache invalidation failed
+# Total steps: 2
+Thought: The log indicates a failure during the CDN cache invalidation process.
+Thought: The error does not provide specific details about memory, timeout, or port issues.
+</trace>
