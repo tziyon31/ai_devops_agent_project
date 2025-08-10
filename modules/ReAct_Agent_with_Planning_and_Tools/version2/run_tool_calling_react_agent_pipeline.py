@@ -1,7 +1,7 @@
 # run_agent_pipeline.py
 
-from plan_generator_from_errors.generate_planned_actions_from_errors import generate_planned_actions_from_errors
-from agent_tool_executor.tool_executer import handle_llm_plan_with_tools
+from tool_calling.tool_calling_from_errors import generate_planned_actions_from_errors
+from agent_tool_executor.tool_call_executor import handle_llm_plan_with_tools
 import openai
 from dotenv import load_dotenv
 import os
