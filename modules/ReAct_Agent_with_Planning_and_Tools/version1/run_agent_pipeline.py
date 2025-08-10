@@ -1,7 +1,6 @@
 # run_agent_pipeline.py
-
-from plan_generator_from_errors.generate_planned_actions_from_errors import generate_planned_actions_from_errors
-from agent_tool_executor.tool_executer import handle_llm_plan_output
+from structured_plan_generator/generate_structured_planned_actions_from_errors.py import generate_planned_actions_from_errors
+from agent_plan_executor/tool_plan_executer.py import handle_llm_plan_output
 import openai
 from dotenv import load_dotenv
 import os
@@ -482,4 +481,3 @@ prompts = generate_planned_actions_from_errors(example_error_list)
 for prompt in prompts:
     llm_output = call_llm(prompt)
     handle_llm_plan_output(llm_output)
-

@@ -87,4 +87,3 @@ Thought: Timeout suggests process needs more time or resources.
         results.append(structured)
 
     return results
-
