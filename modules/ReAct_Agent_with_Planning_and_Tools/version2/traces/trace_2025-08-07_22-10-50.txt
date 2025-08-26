@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Configuration validation failed
-# Total steps: 2
-Thought: The log indicates a failure during the configuration validation step.
-Thought: The error suggests a need to review the configuration details to identify the issue.
-</trace>

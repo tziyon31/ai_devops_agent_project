@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Encryption key rotation failed
-# Total steps: 2
-Thought: The log indicates a failure in the encryption key rotation process.
-Thought: The failure of the data encryption test is directly linked to the key rotation error.
-</trace>

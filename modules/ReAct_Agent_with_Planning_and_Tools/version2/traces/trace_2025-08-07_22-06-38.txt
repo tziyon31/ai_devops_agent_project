@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: API contract mismatch
-# Total steps: 2
-Thought: The log indicates a failure due to an API contract mismatch.
-Thought: This type of error suggests a need to review the logs for more details and potentially rerun the test after addressing the mismatch.
-</trace>

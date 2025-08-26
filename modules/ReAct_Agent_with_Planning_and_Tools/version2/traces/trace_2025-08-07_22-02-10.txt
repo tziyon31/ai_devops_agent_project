@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: iOS build failed - missing provisioning profile
-# Total steps: 2
-Thought: The log indicates that the iOS build failed due to a missing provisioning profile.
-Thought: The issue is related to configuration, not a resource or timeout problem.
-</trace>

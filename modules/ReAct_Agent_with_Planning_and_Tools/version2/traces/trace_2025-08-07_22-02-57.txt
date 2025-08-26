@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Recovery point objective not met
-# Total steps: 2
-Thought: The log indicates a failure in the disaster recovery test due to the recovery point objective not being met.
-Thought: The error does not provide specific information about memory, timeout, or port issues.
-</trace>

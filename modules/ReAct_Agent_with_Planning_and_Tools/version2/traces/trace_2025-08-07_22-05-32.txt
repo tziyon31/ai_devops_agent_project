@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Data schema validation failed
-# Total steps: 2
-Thought: The log indicates a failure in data schema validation.
-Thought: The error is related to data validation, not a resource or timeout issue.
-</trace>

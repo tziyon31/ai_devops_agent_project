@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Test data corrupted
-# Total steps: 2
-Thought: The log indicates that the regression tests failed due to corrupted test data.
-Thought: The error does not suggest a resource issue but rather a data integrity problem.
-</trace>

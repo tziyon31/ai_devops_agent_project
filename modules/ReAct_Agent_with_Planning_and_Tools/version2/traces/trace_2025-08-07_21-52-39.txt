@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: 12:05:03 port conflict
-# Total steps: 2
-Thought: The log indicates that the deployment failed because port 443 is already in use.
-Thought: To resolve the port conflict, the port needs to be freed.
-</trace>

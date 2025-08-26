@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: CPU usage optimization failed
-# Total steps: 2
-Thought: The log indicates a failure in CPU usage optimization.
-Thought: The error does not provide specific details about memory, timeout, or port issues.
-</trace>

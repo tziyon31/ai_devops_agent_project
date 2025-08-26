@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: WCAG 2.1 compliance failed
-# Total steps: 2
-Thought: The log indicates a failure in accessibility tests due to WCAG 2.1 compliance issues.
-Thought: The error is related to test results, not resource constraints or timeouts.
-</trace>

@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: WebSocket connection limit reached
-# Total steps: 2
-Thought: The log indicates a failure due to reaching the WebSocket connection limit.
-Thought: This suggests a need to free up ports or increase the connection limit.
-</trace>

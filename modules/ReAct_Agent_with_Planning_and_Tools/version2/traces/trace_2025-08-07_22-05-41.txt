@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: RabbitMQ cluster formation failed
-# Total steps: 2
-Thought: The log indicates a failure in forming the RabbitMQ cluster, which is critical for message queue deployment.
-Thought: The error does not provide specific details about memory, timeout, or port issues, so further log analysis is needed.
-</trace>

@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Feature flag service unavailable
-# Total steps: 2
-Thought: The log indicates that the feature flag service is unavailable, causing the deployment to fail.
-Thought: The error does not provide a specific error code or suggest a memory or timeout issue.
-</trace>

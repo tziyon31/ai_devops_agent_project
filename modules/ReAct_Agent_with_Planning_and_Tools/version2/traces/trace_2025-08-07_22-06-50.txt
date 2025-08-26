@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Smart contract validation failed
-# Total steps: 2
-Thought: The log indicates a failure in smart contract validation during blockchain deployment.
-Thought: The error is specific to smart contract validation, not related to memory, timeout, or port issues.
-</trace>

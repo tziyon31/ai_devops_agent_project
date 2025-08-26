@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Data integrity constraint violation
-# Total steps: 2
-Thought: The log indicates a data integrity constraint violation during a data migration process.
-Thought: This type of error suggests a problem with the data being migrated, not a resource or timeout issue.
-</trace>

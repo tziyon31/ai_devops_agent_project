@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Traffic switching failed
-# Total steps: 2
-Thought: The log indicates a failure during the traffic switching phase of a blue-green deployment.
-Thought: The error does not provide specific details about memory, timeout, or port issues.
-</trace>

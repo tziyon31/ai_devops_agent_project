@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Backup storage quota exceeded
-# Total steps: 2
-Thought: The log indicates that the database backup failed due to exceeding the storage quota.
-Thought: To address this, we need to either increase the storage quota or manage the existing storage.
-</trace>

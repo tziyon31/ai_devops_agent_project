@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Content compression algorithm failed
-# Total steps: 2
-Thought: The log indicates a failure in the content compression algorithm during the build process.
-Thought: The error does not provide specific details about memory, timeout, or port issues.
-</trace>

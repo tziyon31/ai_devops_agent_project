@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Istio proxy configuration invalid
-# Total steps: 2
-Thought: The log indicates an error with the Istio proxy configuration, which is causing the service mesh configuration to fail.
-Thought: The issue is related to configuration, not resource limits or timeouts, so tools related to memory, timeout, or port are not applicable.
-</trace>

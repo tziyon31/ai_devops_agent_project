@@ -1,6 +1,0 @@
-<trace>
-Prompt_id: Prometheus configuration invalid
-# Total steps: 2
-Thought: The log indicates an error with the Prometheus configuration, which caused the monitoring setup to fail.
-Thought: The issue is related to configuration, not resource limits or timeouts, so no specific tool can address this directly.
-</trace>
