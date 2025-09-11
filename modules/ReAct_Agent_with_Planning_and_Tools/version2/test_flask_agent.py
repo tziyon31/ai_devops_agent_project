@@ -6,6 +6,11 @@
 # 3. Asynchronous error processing
 # 4. Job status monitoring
 # 5. Example error retrieval
+#
+# ⚠️ IMPORTANT NOTE: The tools demonstrated are placeholder implementations
+# designed to showcase the ReAct agent's capabilities. They serve as a 
+# foundation that can be easily extended with any DevOps tools you need 
+# for your specific environment.
 
 import requests
 import json

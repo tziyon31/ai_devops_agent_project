@@ -22,6 +22,11 @@ def run_tool(tool_name, params):
     """
     Executes the actual DevOps tools. This function remains unchanged
     to maintain compatibility with existing tool implementations.
+    
+    ⚠️ IMPORTANT NOTE: These are placeholder implementations designed to 
+    demonstrate the ReAct agent's capabilities. They serve as a foundation 
+    that can be easily extended with any DevOps tools you need for your 
+    specific environment.
     """
     if tool_name == "read_log":
         print("📖 Reading log...")

@@ -2,6 +2,11 @@ def get_devops_tools():
     """
     Defines the available DevOps tools as OpenAI function schemas.
     This replaces the structured prompt approach with native tool calling.
+    
+    ⚠️ IMPORTANT NOTE: These are placeholder implementations designed to 
+    demonstrate the ReAct agent's capabilities. They serve as a foundation 
+    that can be easily extended with any DevOps tools you need for your 
+    specific environment.
     """
     return [
         {

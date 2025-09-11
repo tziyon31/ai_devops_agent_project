@@ -1,3 +1,9 @@
+# AI DevOps Agent Dependencies
+# 
+# ⚠️ IMPORTANT NOTE: The tools demonstrated are placeholder implementations
+# designed to showcase the ReAct agent's capabilities. They serve as a 
+# foundation that can be easily extended with any DevOps tools you need 
+# for your specific environment.
 openai
 python-dotenv
 flask

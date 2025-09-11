@@ -1,4 +1,9 @@
 # Use Python 3.11 slim image as base
+# 
+# ⚠️ IMPORTANT NOTE: The tools demonstrated are placeholder implementations
+# designed to showcase the ReAct agent's capabilities. They serve as a 
+# foundation that can be easily extended with any DevOps tools you need 
+# for your specific environment.
 FROM python:3.11-slim
 
 # Set working directory
